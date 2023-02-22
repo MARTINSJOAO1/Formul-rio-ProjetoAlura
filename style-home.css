@@ -1,0 +1,41 @@
+body{
+ background:rgb(248, 219, 181)
+}
+#salao{
+    display: block;
+    margin: 0 auto;
+}
+.parte1{
+    background: blue;
+}
+h1{
+    font-size: 20px;
+}
+p {
+    text-align: center;
+}
+#Pmissao{
+    font-size: 20px
+}
+em strong{
+    color: #FF0055;
+    }
+.parte2{
+    background:rgb(234, 192, 192);
+  
+}
+.lua{
+    font-style: italic;
+}
+h2{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align:top;
+    width: 20%;
+    margin-right: 15%;
+}
+#salao2{
+    width: 50%;
+}
